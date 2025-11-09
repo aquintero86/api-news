@@ -1,11 +1,10 @@
-package application.usercases;
+package application;
 
 
 import com.applydigital.application.model.NewsGetResponseDTO;
 import com.applydigital.domain.model.NewsEntity;
 
 import java.time.LocalDateTime;
-import java.time.Month;
 import java.util.List;
 
 public class NewsTestData {

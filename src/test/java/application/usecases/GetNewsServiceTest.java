@@ -1,7 +1,8 @@
-package application.usercases;
+package application.usecases;
 
 
 
+import application.NewsTestData;
 import com.applydigital.application.model.NewsGetResponseDTO;
 import com.applydigital.application.repository.NewsRepository;
 import com.applydigital.application.usecases.news.GetNewsService;
